@@ -1,4 +1,4 @@
-import Landing from '@/components/Landing'
+import Landing from '@/components/store-front/Landing'
 import Image from 'next/image'
 
 export default function Home() {
